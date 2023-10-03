@@ -1,0 +1,3 @@
+/Users/ignatius/Desktop/School/Project_Minesweeper/cmake-build-debug-coverage/CMakeFiles/Minesweeper.dir
+/Users/ignatius/Desktop/School/Project_Minesweeper/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/Users/ignatius/Desktop/School/Project_Minesweeper/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
